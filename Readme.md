@@ -13,3 +13,13 @@ In case you want to build it, grab _deps.zip_ from the last release and put it i
 ![](docs/map.jpg)
 Also, if you'll put l2j geodata at the same level as _build_ folder (path should look like _geodat/**\_\**.l2j_), it will be displayed over geometry.  
 ![](docs/geo.jpg)
+
+---
+
+## Support My Work
+
+If you find this project useful, consider supporting my open source work:
+
+[![Support](https://img.shields.io/badge/Support-My%20Work-2ea043?logo=github)](https://guglovich.github.io/donate/)
+
+Your donations help fund AI agent subscriptions and development time.
